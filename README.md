@@ -1,5 +1,5 @@
 Description-
-[Jump to "How to run?" Section.](#how-to-run-?)
+[Jump to "How to run?" Section.](#how-to-run)
 # CLI-in-Java
 Made a command Line interface using java. Created commands like "ls","help","del", etc.
 1. The app can be run in the console with `./todo`.
