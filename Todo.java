@@ -1,5 +1,5 @@
 /////////////////////////////////////////
-//DIVYAM MADHOK - madhokdivyam@gmail.com - +91-8860105365
+//DIVYAM MADHOK 
 //Completely working. !5/16 test cases passed. One didn't pass due to UTF-8 encoding issues a "dot" character was being appended at the end 
 
 import java.util.*;
