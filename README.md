@@ -1,3 +1,5 @@
+Description-
+[Jump to "How to run?" Section.](#how-to-run?)
 # CLI-in-Java
 Made a command Line interface using java. Created commands like "ls","help","del", etc.
 1. The app can be run in the console with `./todo`.
@@ -106,3 +108,16 @@ Use the `report` command to see the latest tally of pending and completed todos.
 $ ./todo report
 yyyy-mm-dd Pending : 1 Completed : 4
 ```
+
+# How To Run?
+1. Download the zip with all files.
+2. Extract it.
+3. Open cmd in the location of the folder.
+4. For windows, Type in ".\todo" or ".\todo help" to know the basic functionalities.
+5. **On \*nix:**
+
+   ```
+   ./todo.sh
+   ```
+
+Thank you!
